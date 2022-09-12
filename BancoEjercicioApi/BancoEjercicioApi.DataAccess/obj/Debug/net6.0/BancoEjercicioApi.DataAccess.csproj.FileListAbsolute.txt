@@ -1,0 +1,17 @@
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.DataAccess.deps.json
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.DataAccess.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.DataAccess.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.Entities.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\bin\Debug\net6.0\BancoEjercicioApi.Entities.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.AssemblyInfo.cs
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.csproj.CopyComplete
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\refint\BancoEjercicioApi.DataAccess.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\BancoEjercicioApi.DataAccess.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.DataAccess\obj\Debug\net6.0\ref\BancoEjercicioApi.DataAccess.dll

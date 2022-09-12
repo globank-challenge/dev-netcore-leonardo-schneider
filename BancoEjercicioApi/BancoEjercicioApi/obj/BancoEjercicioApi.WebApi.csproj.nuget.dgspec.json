@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi\\BancoEjercicioApi.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj",
+        "projectName": "BancoEjercicioApi.Abstractions",
+        "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\leonardo.schneider\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardo.schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.BusinessLogic\\BancoEjercicioApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.BusinessLogic\\BancoEjercicioApi.Services.csproj",
+        "projectName": "BancoEjercicioApi.Services",
+        "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.BusinessLogic\\BancoEjercicioApi.Services.csproj",
+        "packagesPath": "C:\\Users\\leonardo.schneider\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardo.schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj"
+              },
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj"
+              },
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj"
+              },
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Exceptions\\BancoEjercicioApi.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Exceptions\\BancoEjercicioApi.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj",
+        "projectName": "BancoEjercicioApi.DataAccess",
+        "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\leonardo.schneider\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardo.schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj"
+              },
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj",
+        "projectName": "BancoEjercicioApi.Entities",
+        "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj",
+        "packagesPath": "C:\\Users\\leonardo.schneider\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardo.schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Abstractions\\BancoEjercicioApi.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Exceptions\\BancoEjercicioApi.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Exceptions\\BancoEjercicioApi.Exceptions.csproj",
+        "projectName": "BancoEjercicioApi.Exceptions",
+        "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Exceptions\\BancoEjercicioApi.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\leonardo.schneider\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardo.schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi\\BancoEjercicioApi.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi\\BancoEjercicioApi.WebApi.csproj",
+        "projectName": "BancoEjercicioApi.WebApi",
+        "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi\\BancoEjercicioApi.WebApi.csproj",
+        "packagesPath": "C:\\Users\\leonardo.schneider\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardo.schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.BusinessLogic\\BancoEjercicioApi.Services.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.BusinessLogic\\BancoEjercicioApi.Services.csproj"
+              },
+              "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.DataAccess\\BancoEjercicioApi.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

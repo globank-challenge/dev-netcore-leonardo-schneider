@@ -1,0 +1,12 @@
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\bin\Debug\net6.0\BancoEjercicioApi.Exceptions.deps.json
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\bin\Debug\net6.0\BancoEjercicioApi.Exceptions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\bin\Debug\net6.0\BancoEjercicioApi.Exceptions.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.csproj.AssemblyReference.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.AssemblyInfoInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.AssemblyInfo.cs
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\refint\BancoEjercicioApi.Exceptions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\BancoEjercicioApi.Exceptions.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Exceptions\obj\Debug\net6.0\ref\BancoEjercicioApi.Exceptions.dll

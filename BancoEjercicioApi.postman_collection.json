@@ -1,0 +1,402 @@
+{
+	"info": {
+		"_postman_id": "11dd0d8e-1a0e-441d-b029-6c41fc230139",
+		"name": "BancoEjercicioApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22137609"
+	},
+	"item": [
+		{
+			"name": "Cliente",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Nombre\":\"Leonardo Schneider\",\r\n    \"Genero\":\"Masculino\",\r\n    \"Edad\":38,\r\n    \"Identificacion\":\"31045735\",\r\n    \"Direccion\":\"Alsina 1241 7mo 1\",\r\n    \"Telefono\":\"1130222959\",\r\n    \"Password\":\"123456\",\r\n    \"Estado\":true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cliente",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"ClienteId\":7,\r\n    \"Nombre\":\"Leonardo Schneider 7\",\r\n    \"Genero\":\"Masculino\",\r\n    \"Edad\":38,\r\n    \"Identificacion\":\"31045735\",\r\n    \"Direccion\":\"Alsina 1241 7mo 1\",\r\n    \"Telefono\":\"1130222959\",\r\n    \"Password\":\"123456\",\r\n    \"Estado\":true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cliente",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cliente",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente by Id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cliente/7",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cliente",
+						"7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cliente/4",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cliente",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cuenta Crear",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Numero\":\"47875810\",\r\n    \"Tipo\":\"Ahorro\",\r\n    \"SaldoInicial\":2000,\r\n    \"Estado\":true,\r\n    \"ClienteId\":7\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cuenta",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cuenta"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cuenta Modificar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\":5,\r\n    \"Numero\":\"4787586\",\r\n    \"Tipo\":\"Ahorro\",\r\n    \"SaldoInicial\":2000,\r\n    \"Estado\":true,\r\n    \"ClienteId\":7\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cuenta",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cuenta"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cuenta Obtener",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cuenta",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cuenta"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cuenta Obtener By Id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cuenta/30",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cuenta",
+						"30"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cuenta Obtener By Id Cliente",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cuenta/GetByClientId/7",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cuenta",
+						"GetByClientId",
+						"7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cuenta Borrar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Cuenta/3",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Cuenta",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Movimiento Crear",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Fecha\":\"11/08/2022\",\r\n    \"CuentaId\":10,\r\n    \"Valor\":-500\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Movimiento",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Movimiento"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Reportes / Estado de Cuenta",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{ApiURL}}/api/Reportes/EstadoDeCuenta?fechaHasta=19082022",
+					"host": [
+						"{{ApiURL}}"
+					],
+					"path": [
+						"api",
+						"Reportes",
+						"EstadoDeCuenta"
+					],
+					"query": [
+						{
+							"key": "clienteId",
+							"value": "5",
+							"disabled": true
+						},
+						{
+							"key": "fechaDesde",
+							"value": "01082022",
+							"disabled": true
+						},
+						{
+							"key": "fechaHasta",
+							"value": "19082022"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

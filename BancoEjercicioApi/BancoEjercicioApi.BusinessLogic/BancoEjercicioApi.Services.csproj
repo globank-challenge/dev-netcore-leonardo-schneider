@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BancoEjercicioApi.Abstractions\BancoEjercicioApi.Abstractions.csproj" />
+    <ProjectReference Include="..\BancoEjercicioApi.DataAccess\BancoEjercicioApi.DataAccess.csproj" />
+    <ProjectReference Include="..\BancoEjercicioApi.Entities\BancoEjercicioApi.Entities.csproj" />
+    <ProjectReference Include="..\BancoEjercicioApi.Exceptions\BancoEjercicioApi.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

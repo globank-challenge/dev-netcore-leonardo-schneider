@@ -1,0 +1,15 @@
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\bin\Debug\net6.0\BancoEjercicioApi.Entities.deps.json
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\bin\Debug\net6.0\BancoEjercicioApi.Entities.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\bin\Debug\net6.0\BancoEjercicioApi.Entities.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.csproj.AssemblyReference.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.AssemblyInfoInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.AssemblyInfo.cs
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.csproj.CopyComplete
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\refint\BancoEjercicioApi.Entities.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\BancoEjercicioApi.Entities.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Entities\obj\Debug\net6.0\ref\BancoEjercicioApi.Entities.dll

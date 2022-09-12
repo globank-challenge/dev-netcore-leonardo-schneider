@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqs+5nje3MxjSVrT91BCLy27LA4GTgXRE22xMq0pA9oKPJH/+VBeFXjcNLZaT07ultR2I3Q/f1DwhU/ftpD/RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leonardo.schneider\\source\\repos\\BancoEjercicioApi\\BancoEjercicioApi.Entities\\BancoEjercicioApi.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo.schneider\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

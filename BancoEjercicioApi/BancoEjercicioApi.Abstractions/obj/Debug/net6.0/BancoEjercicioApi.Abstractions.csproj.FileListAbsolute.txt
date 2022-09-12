@@ -1,0 +1,12 @@
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.deps.json
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\bin\Debug\net6.0\BancoEjercicioApi.Abstractions.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.csproj.AssemblyReference.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.AssemblyInfoInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.AssemblyInfo.cs
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\refint\BancoEjercicioApi.Abstractions.dll
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\BancoEjercicioApi.Abstractions.pdb
+C:\Users\leonardo.schneider\source\repos\BancoEjercicioApi\BancoEjercicioApi.Abstractions\obj\Debug\net6.0\ref\BancoEjercicioApi.Abstractions.dll

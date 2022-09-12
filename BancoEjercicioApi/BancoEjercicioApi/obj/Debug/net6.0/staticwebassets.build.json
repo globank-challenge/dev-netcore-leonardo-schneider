@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6TVbz3JCb9e0kp4m9YMbnYNXksT40jtzkLt+ut8gQJc=",
+  "Source": "BancoEjercicioApi.WebApi",
+  "BasePath": "_content/BancoEjercicioApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
